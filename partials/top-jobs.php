@@ -2,9 +2,9 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text">iHero Template</h1>
+      <h1 class="header center  red-text">iHero Template</h1>
       <div class="row center">
-        <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
+        <h5 class="header col s12 light">A modern job data base</h5>
       </div>
       <div class="row">
         <div class="col s4 offset-s4">

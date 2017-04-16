@@ -9,7 +9,7 @@
 <div class="container">
   <div class="row">
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -21,7 +21,7 @@
     </div>
     <!-- job item/ -->
      <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -33,7 +33,7 @@
     </div>
     <!-- job item/ -->
      <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -45,7 +45,7 @@
     </div>
     <!-- job item/ -->
      <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -57,7 +57,7 @@
     </div>
     <!-- job item/ -->
      <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -69,7 +69,7 @@
     </div>
     <!-- job item/ -->
      <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -81,7 +81,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -93,7 +93,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -105,7 +105,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -117,7 +117,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -129,7 +129,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
@@ -141,7 +141,7 @@
     </div>
     <!-- job item/ -->
     <!-- job item -->
-    <div class="col s4">
+    <div class="col s3">
       <div class="card">
         <div class="card-image waves-effect waves-block waves-light">
         </div>
