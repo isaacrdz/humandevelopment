@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container section">
   <div class="row">
     <div class="col s12">
       <h2 class="center-align">Trabajos Premium</h2>
