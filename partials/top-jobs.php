@@ -2,9 +2,11 @@
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center">iHero Template</h1>
+      <h1 class="header center">iHero</h1>
       <div class="row center">
-        <h5 class="header col s12 light">A modern job data base</h5>
+        <h5 class="header col s12 light">iHero can help you find the best jobs, employers and career advice.
+
+</h5>
       </div>
       <div class="row">
         <div class="col s4 offset-s4">
@@ -21,6 +23,3 @@
 
     </div>
   </div>
-
-
-  
